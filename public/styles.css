@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color: #d3d3d3;
+}
+
+h1{
+    text-indent:370px;
+    text-align: left;
+    font-family: Algerian;
+}
+h3{
+    text-decoration: underline black;
+}
+img{
+    position: relative;
+    width:85px;
+    height:80px;
+    top:0px;
+    float: left;
+    white-space: nowrap;
+}
+p{
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    padding:14px 25px;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #0000ff;
+    color: white;
+}
+
+.content{
+    padding-left: 16px;
+    padding-right: 100px;
+}
